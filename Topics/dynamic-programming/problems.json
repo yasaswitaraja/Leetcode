@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-22T05:43:42.661Z",
+  "updatedAt": "2026-09-22T05:46:30.830Z",
   "problems": [
     {
       "frontendId": "5",
@@ -82,7 +82,7 @@
           "filename": "0032-longest-valid-parentheses.py",
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "f9d9def02813c95522a2e7a5ae706542abae4122",
-          "lastSyncedAt": "2026-09-22T05:43:05.504Z"
+          "lastSyncedAt": "2026-09-22T05:46:30.830Z"
         }
       ]
     },
