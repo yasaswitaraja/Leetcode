@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T04:42:48.812Z",
+  "updatedAt": "2026-09-22T05:39:13.434Z",
   "problems": [
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "0041-first-missing-positive/",
+      "readmePath": "0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0041-first-missing-positive.py",
+          "path": "0041-first-missing-positive/0041-first-missing-positive.py",
+          "sha": "29fec8c6ed09365b8e88d4c7b0e77e2497cadc15",
+          "lastSyncedAt": "2026-09-22T05:39:13.434Z"
+        }
+      ]
+    },
     {
       "frontendId": "1477",
       "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
