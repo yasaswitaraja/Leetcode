@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-22T04:41:25.965Z",
+  "updatedAt": "2026-09-22T04:41:34.757Z",
   "problems": [
     {
       "frontendId": "12",
@@ -63,6 +63,26 @@
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.py",
           "sha": "3046ef18518d0cbc4cc75095695f1c697bf07073",
           "lastSyncedAt": "2026-09-22T04:40:47.615Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3524-find-x-value-of-array-i.py",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.py",
+          "sha": "2d0d614b274dc0e0f40e40c489c7b31e91de82aa",
+          "lastSyncedAt": "2026-09-22T04:41:34.757Z"
         }
       ]
     },
