@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T04:41:57.836Z",
+  "updatedAt": "2026-09-22T04:42:48.812Z",
   "problems": [
     {
       "frontendId": "1477",
@@ -103,6 +103,26 @@
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.py",
           "sha": "40e7f3b93b585c23bffcc4bc03eccee02c89073c",
           "lastSyncedAt": "2026-09-22T04:40:31.215Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "problemName": "3904-smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "folderPath": "3904-smallest-stable-index-ii/",
+      "readmePath": "3904-smallest-stable-index-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3904-smallest-stable-index-ii.py",
+          "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.py",
+          "sha": "403a9423ba7d7aff9951de772faf1313b58ae0fc",
+          "lastSyncedAt": "2026-09-22T04:42:48.812Z"
         }
       ]
     }
