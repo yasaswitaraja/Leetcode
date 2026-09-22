@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search"
+  },
+  "updatedAt": "2026-09-22T04:39:45.222Z",
+  "problems": [
+    {
+      "frontendId": "3117",
+      "title": "Minimum Sum of Values by Dividing Array",
+      "slug": "minimum-sum-of-values-by-dividing-array",
+      "problemName": "3117-minimum-sum-of-values-by-dividing-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/",
+      "folderPath": "3117-minimum-sum-of-values-by-dividing-array/",
+      "readmePath": "3117-minimum-sum-of-values-by-dividing-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3117-minimum-sum-of-values-by-dividing-array.py",
+          "path": "3117-minimum-sum-of-values-by-dividing-array/3117-minimum-sum-of-values-by-dividing-array.py",
+          "sha": "f66e3fb3bfdcd302acb62948f75fdfdfc0d4cc28",
+          "lastSyncedAt": "2026-09-22T04:39:45.222Z"
+        }
+      ]
+    }
+  ]
+}
