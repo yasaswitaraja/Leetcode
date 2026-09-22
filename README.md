@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 4 | 9 | 8 |
+| 22 | 4 | 10 | 8 |
 
 ## Activity
 
@@ -21,34 +21,36 @@ Contains topicwise list of solved problems.
 | 2026-09-11 | 1 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 6 |
-| 2026-09-22 | 6 |
+| 2026-09-22 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 9 | 43% |
-| String | 8 | 38% |
-| Array | 7 | 33% |
-| Math | 7 | 33% |
-| Hash Table | 5 | 24% |
-| Binary Search | 2 | 10% |
-| Greedy | 2 | 10% |
-| Prefix Sum | 2 | 10% |
-| Recursion | 2 | 10% |
-| Segment Tree | 2 | 10% |
+| Dynamic Programming | 10 | 45% |
+| String | 9 | 41% |
+| Array | 7 | 32% |
+| Math | 7 | 32% |
+| Hash Table | 5 | 23% |
+| Binary Search | 2 | 9% |
+| Greedy | 2 | 9% |
+| Prefix Sum | 2 | 9% |
+| Recursion | 2 | 9% |
+| Segment Tree | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 7 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
@@ -62,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 10 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
