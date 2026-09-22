@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 4 | 8 | 8 |
+| 21 | 4 | 9 | 8 |
 
 ## Activity
 
@@ -21,17 +21,17 @@ Contains topicwise list of solved problems.
 | 2026-09-11 | 1 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 6 |
-| 2026-09-22 | 5 |
+| 2026-09-22 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 8 | 40% |
-| Array | 7 | 35% |
-| Math | 7 | 35% |
-| String | 7 | 35% |
-| Hash Table | 5 | 25% |
+| Dynamic Programming | 9 | 43% |
+| String | 8 | 38% |
+| Array | 7 | 33% |
+| Math | 7 | 33% |
+| Hash Table | 5 | 24% |
 | Binary Search | 2 | 10% |
 | Greedy | 2 | 10% |
 | Prefix Sum | 2 | 10% |
@@ -48,11 +48,12 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 5 |
+| [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 7 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
@@ -61,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Tree](Topics/tree/) | 1 |
-| [two-pointers](Topics/two-pointers/) | 0 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
