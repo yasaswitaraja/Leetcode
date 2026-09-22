@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-09-22T04:40:19.465Z",
+  "problems": [
+    {
+      "frontendId": "2472",
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "problemName": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+      "folderPath": "2472-maximum-number-of-non-overlapping-palindrome-substrings/",
+      "readmePath": "2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.py",
+          "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.py",
+          "sha": "40d09f6fc3b14519b67e8cd43bc0e101c5e33d7a",
+          "lastSyncedAt": "2026-09-22T04:40:19.465Z"
+        }
+      ]
+    }
+  ]
+}
