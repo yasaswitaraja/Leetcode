@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T04:41:00.833Z",
+  "updatedAt": "2026-09-22T04:41:34.757Z",
   "problems": [
     {
       "frontendId": "1477",
@@ -43,6 +43,26 @@
           "path": "3117-minimum-sum-of-values-by-dividing-array/3117-minimum-sum-of-values-by-dividing-array.py",
           "sha": "f66e3fb3bfdcd302acb62948f75fdfdfc0d4cc28",
           "lastSyncedAt": "2026-09-22T04:40:18.981Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3524-find-x-value-of-array-i.py",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.py",
+          "sha": "2d0d614b274dc0e0f40e40c489c7b31e91de82aa",
+          "lastSyncedAt": "2026-09-22T04:41:34.757Z"
         }
       ]
     },
