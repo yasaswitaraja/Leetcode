@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 4 | 11 | 10 |
+| 26 | 4 | 12 | 10 |
 
 ## Activity
 
@@ -21,18 +21,18 @@ Contains topicwise list of solved problems.
 | 2026-09-11 | 1 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 6 |
-| 2026-09-22 | 10 |
+| 2026-09-22 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 12 | 48% |
-| String | 10 | 40% |
-| Array | 8 | 32% |
-| Math | 8 | 32% |
-| Hash Table | 5 | 20% |
-| Two Pointers | 3 | 12% |
+| Dynamic Programming | 12 | 46% |
+| String | 10 | 38% |
+| Array | 9 | 35% |
+| Math | 8 | 31% |
+| Hash Table | 5 | 19% |
+| Two Pointers | 4 | 15% |
 | Binary Search | 2 | 8% |
 | Bit Manipulation | 2 | 8% |
 | Bracket Sequences | 2 | 8% |
@@ -42,7 +42,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 8 |
+| [Array](Topics/array/) | 9 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -68,5 +68,5 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 10 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
