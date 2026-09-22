@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T05:43:42.661Z",
+  "updatedAt": "2026-09-22T05:46:09.239Z",
   "problems": [
+    {
+      "frontendId": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "problemName": "0031-next-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+      "folderPath": "0031-next-permutation/",
+      "readmePath": "0031-next-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0031-next-permutation.py",
+          "path": "0031-next-permutation/0031-next-permutation.py",
+          "sha": "40f5f3925df19b5d79f63d9285b5045c1b840d9d",
+          "lastSyncedAt": "2026-09-22T05:46:09.239Z"
+        }
+      ]
+    },
     {
       "frontendId": "41",
       "title": "First Missing Positive",
