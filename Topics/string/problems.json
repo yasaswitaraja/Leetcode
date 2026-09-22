@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-22T04:39:18.191Z",
+  "updatedAt": "2026-09-22T04:39:32.942Z",
   "problems": [
+    {
+      "frontendId": "10",
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "problemName": "0010-regular-expression-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+      "folderPath": "0010-regular-expression-matching/",
+      "readmePath": "0010-regular-expression-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0010-regular-expression-matching.py",
+          "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
+          "sha": "3bcf689a98cf30f6676fe8b43fc153bd830d2415",
+          "lastSyncedAt": "2026-09-22T04:39:32.942Z"
+        }
+      ]
+    },
     {
       "frontendId": "12",
       "title": "Integer to Roman",
