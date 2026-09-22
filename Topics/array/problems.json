@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T05:46:09.239Z",
+  "updatedAt": "2026-09-22T05:47:14.304Z",
   "problems": [
     {
       "frontendId": "31",
@@ -23,6 +23,26 @@
           "path": "0031-next-permutation/0031-next-permutation.py",
           "sha": "40f5f3925df19b5d79f63d9285b5045c1b840d9d",
           "lastSyncedAt": "2026-09-22T05:46:09.239Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0036-valid-sudoku.py",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.py",
+          "sha": "5de20ab87fc7a26a171f325e675c9e8599b039d9",
+          "lastSyncedAt": "2026-09-22T05:47:14.304Z"
         }
       ]
     },
