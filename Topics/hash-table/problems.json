@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-22T04:41:00.833Z",
+  "updatedAt": "2026-09-22T04:41:14.265Z",
   "problems": [
     {
       "frontendId": "12",
@@ -43,6 +43,26 @@
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py",
           "sha": "8c6d897a4e0f1ebe61be7f3a081da30a3ad8ba18",
           "lastSyncedAt": "2026-09-22T04:41:00.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1520",
+      "title": "Maximum Number of Non-Overlapping Substrings",
+      "slug": "maximum-number-of-non-overlapping-substrings",
+      "problemName": "1520-maximum-number-of-non-overlapping-substrings",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+      "folderPath": "1520-maximum-number-of-non-overlapping-substrings/",
+      "readmePath": "1520-maximum-number-of-non-overlapping-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1520-maximum-number-of-non-overlapping-substrings.py",
+          "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
+          "sha": "dff51d2331570ca3bacd37ca23ffee3418d937a4",
+          "lastSyncedAt": "2026-09-22T04:41:14.265Z"
         }
       ]
     }
