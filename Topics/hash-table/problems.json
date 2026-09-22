@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table"
+  },
+  "updatedAt": "2026-09-22T04:39:18.191Z",
+  "problems": [
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0012-integer-to-roman.py",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.py",
+          "sha": "b4d678bda263132f477d762911b7e7ccd7cfb650",
+          "lastSyncedAt": "2026-09-22T04:39:18.191Z"
+        }
+      ]
+    }
+  ]
+}
