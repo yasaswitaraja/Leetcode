@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 4 | 10 | 10 |
+| 25 | 4 | 11 | 10 |
 
 ## Activity
 
@@ -21,22 +21,22 @@ Contains topicwise list of solved problems.
 | 2026-09-11 | 1 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 6 |
-| 2026-09-22 | 9 |
+| 2026-09-22 | 10 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 12 | 50% |
-| String | 10 | 42% |
-| Array | 8 | 33% |
-| Math | 7 | 29% |
-| Hash Table | 5 | 21% |
-| Two Pointers | 3 | 13% |
+| Dynamic Programming | 12 | 48% |
+| String | 10 | 40% |
+| Array | 8 | 32% |
+| Math | 8 | 32% |
+| Hash Table | 5 | 20% |
+| Two Pointers | 3 | 12% |
 | Binary Search | 2 | 8% |
+| Bit Manipulation | 2 | 8% |
 | Bracket Sequences | 2 | 8% |
 | Greedy | 2 | 8% |
-| Prefix Sum | 2 | 8% |
 
 ## Topics
 
@@ -46,7 +46,7 @@ Contains topicwise list of solved problems.
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
@@ -56,7 +56,8 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
@@ -64,6 +65,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
+| [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 10 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
