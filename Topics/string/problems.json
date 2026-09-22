@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-22T04:42:35.084Z",
+  "updatedAt": "2026-09-22T04:42:41.739Z",
   "problems": [
     {
       "frontendId": "10",
@@ -43,6 +43,26 @@
           "path": "0012-integer-to-roman/0012-integer-to-roman.py",
           "sha": "b4d678bda263132f477d762911b7e7ccd7cfb650",
           "lastSyncedAt": "2026-09-22T04:40:05.686Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "115",
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "problemName": "0115-distinct-subsequences",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences/",
+      "folderPath": "0115-distinct-subsequences/",
+      "readmePath": "0115-distinct-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0115-distinct-subsequences.py",
+          "path": "0115-distinct-subsequences/0115-distinct-subsequences.py",
+          "sha": "2ad3cc1c18b14332cfe3b1db44a35129a23a06e0",
+          "lastSyncedAt": "2026-09-22T04:42:41.739Z"
         }
       ]
     },
