@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-09-22T04:41:44.115Z",
+  "problems": [
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "3498-reverse-degree-of-a-string/",
+      "readmePath": "3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3498-reverse-degree-of-a-string.py",
+          "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
+          "sha": "f7cc85c5e888c4201ebd5c174dc2f24c16bf3039",
+          "lastSyncedAt": "2026-09-22T04:41:44.115Z"
+        }
+      ]
+    }
+  ]
+}
