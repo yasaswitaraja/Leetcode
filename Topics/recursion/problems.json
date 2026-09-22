@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-22T04:40:12.520Z",
+  "updatedAt": "2026-09-22T04:41:57.836Z",
   "problems": [
     {
       "frontendId": "10",
@@ -23,6 +23,26 @@
           "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
           "sha": "3bcf689a98cf30f6676fe8b43fc153bd830d2415",
           "lastSyncedAt": "2026-09-22T04:40:12.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "3483-unique-3-digit-even-numbers/",
+      "readmePath": "3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3483-unique-3-digit-even-numbers.py",
+          "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.py",
+          "sha": "9241fd49007ea1e5d61512d2f8a2f06707fff521",
+          "lastSyncedAt": "2026-09-22T04:41:57.836Z"
         }
       ]
     }
