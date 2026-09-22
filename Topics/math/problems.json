@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-22T04:40:47.615Z",
+  "updatedAt": "2026-09-22T04:41:25.965Z",
   "problems": [
     {
       "frontendId": "12",
@@ -23,6 +23,26 @@
           "path": "0012-integer-to-roman/0012-integer-to-roman.py",
           "sha": "b4d678bda263132f477d762911b7e7ccd7cfb650",
           "lastSyncedAt": "2026-09-22T04:40:05.686Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1401",
+      "title": "Circle and Rectangle Overlapping",
+      "slug": "circle-and-rectangle-overlapping",
+      "problemName": "1401-circle-and-rectangle-overlapping",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/circle-and-rectangle-overlapping/",
+      "folderPath": "1401-circle-and-rectangle-overlapping/",
+      "readmePath": "1401-circle-and-rectangle-overlapping/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1401-circle-and-rectangle-overlapping.py",
+          "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.py",
+          "sha": "dd409ca06b47fe59d9775f0dd986bdfbd85cdbac",
+          "lastSyncedAt": "2026-09-22T04:41:25.965Z"
         }
       ]
     },
