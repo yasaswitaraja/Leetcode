@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T04:41:34.757Z",
+  "updatedAt": "2026-09-22T04:41:57.836Z",
   "problems": [
     {
       "frontendId": "1477",
@@ -43,6 +43,26 @@
           "path": "3117-minimum-sum-of-values-by-dividing-array/3117-minimum-sum-of-values-by-dividing-array.py",
           "sha": "f66e3fb3bfdcd302acb62948f75fdfdfc0d4cc28",
           "lastSyncedAt": "2026-09-22T04:40:18.981Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "3483-unique-3-digit-even-numbers/",
+      "readmePath": "3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3483-unique-3-digit-even-numbers.py",
+          "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.py",
+          "sha": "9241fd49007ea1e5d61512d2f8a2f06707fff521",
+          "lastSyncedAt": "2026-09-22T04:41:57.836Z"
         }
       ]
     },
