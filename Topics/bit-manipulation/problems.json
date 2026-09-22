@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-22T04:40:18.981Z",
+  "updatedAt": "2026-09-22T05:45:13.131Z",
   "problems": [
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0029-divide-two-integers.py",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.py",
+          "sha": "ccd83430b5c1dd9e69819421a773ff2fa2fad85a",
+          "lastSyncedAt": "2026-09-22T05:45:13.131Z"
+        }
+      ]
+    },
     {
       "frontendId": "3117",
       "title": "Minimum Sum of Values by Dividing Array",
