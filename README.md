@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 4 | 16 | 11 |
+| 32 | 4 | 16 | 12 |
 
 ## Activity
 
@@ -22,17 +22,17 @@ Contains topicwise list of solved problems.
 | 2026-09-20 | 2 |
 | 2026-09-21 | 6 |
 | 2026-09-22 | 11 |
-| 2026-09-23 | 5 |
+| 2026-09-23 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 45% |
-| Dynamic Programming | 12 | 39% |
-| String | 10 | 32% |
-| Math | 8 | 26% |
-| Hash Table | 7 | 23% |
+| Array | 15 | 47% |
+| Dynamic Programming | 12 | 38% |
+| String | 10 | 31% |
+| Hash Table | 8 | 25% |
+| Math | 8 | 25% |
 | Prefix Sum | 5 | 16% |
 | Sliding Window | 5 | 16% |
 | Binary Search | 4 | 13% |
@@ -43,7 +43,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 15 |
+| [Array](Topics/array/) | 16 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -52,10 +52,10 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 12 |
-| [Enumeration](Topics/enumeration/) | 1 |
+| [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 8 |
 | [matrix](Topics/matrix/) | 0 |
