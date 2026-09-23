@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-23T09:13:33.482Z",
+  "updatedAt": "2026-09-23T09:17:31.876Z",
   "problems": [
     {
       "frontendId": "209",
@@ -63,6 +63,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "4f12333d99ca67bdd7919535f630c0e47a93017c",
           "lastSyncedAt": "2026-09-23T09:12:18.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2488",
+      "title": "Count Subarrays With Median K",
+      "slug": "count-subarrays-with-median-k",
+      "problemName": "2488-count-subarrays-with-median-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-median-k/",
+      "folderPath": "2488-count-subarrays-with-median-k/",
+      "readmePath": "2488-count-subarrays-with-median-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2488-count-subarrays-with-median-k.py",
+          "path": "2488-count-subarrays-with-median-k/2488-count-subarrays-with-median-k.py",
+          "sha": "0c7a8a350baaeff66edebd39260671317182625b",
+          "lastSyncedAt": "2026-09-23T09:17:31.876Z"
         }
       ]
     },
