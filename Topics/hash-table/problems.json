@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-23T09:17:31.876Z",
+  "updatedAt": "2026-09-23T09:18:25.510Z",
   "problems": [
     {
       "frontendId": "12",
@@ -143,6 +143,26 @@
           "path": "2488-count-subarrays-with-median-k/2488-count-subarrays-with-median-k.py",
           "sha": "0c7a8a350baaeff66edebd39260671317182625b",
           "lastSyncedAt": "2026-09-23T09:17:31.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2763",
+      "title": "Sum of Imbalance Numbers of All Subarrays",
+      "slug": "sum-of-imbalance-numbers-of-all-subarrays",
+      "problemName": "2763-sum-of-imbalance-numbers-of-all-subarrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/",
+      "folderPath": "2763-sum-of-imbalance-numbers-of-all-subarrays/",
+      "readmePath": "2763-sum-of-imbalance-numbers-of-all-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2763-sum-of-imbalance-numbers-of-all-subarrays.py",
+          "path": "2763-sum-of-imbalance-numbers-of-all-subarrays/2763-sum-of-imbalance-numbers-of-all-subarrays.py",
+          "sha": "c169385aed56ee847b51fdcb9f33857ee6b466cd",
+          "lastSyncedAt": "2026-09-23T09:18:25.510Z"
         }
       ]
     },
