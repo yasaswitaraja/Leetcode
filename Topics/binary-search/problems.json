@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-23T09:13:33.482Z",
+  "updatedAt": "2026-09-23T09:20:47.278Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0004-median-of-two-sorted-arrays.py",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
+          "sha": "15d77633fc468abfa494e55a1b048ba416842d8a",
+          "lastSyncedAt": "2026-09-23T09:20:47.278Z"
+        }
+      ]
+    },
     {
       "frontendId": "209",
       "title": "Minimum Size Subarray Sum",
