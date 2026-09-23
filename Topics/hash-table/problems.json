@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-22T05:47:14.304Z",
+  "updatedAt": "2026-09-23T09:12:18.791Z",
   "problems": [
     {
       "frontendId": "12",
@@ -103,6 +103,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "dff51d2331570ca3bacd37ca23ffee3418d937a4",
           "lastSyncedAt": "2026-09-22T04:41:14.265Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.py",
+          "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
+          "sha": "4f12333d99ca67bdd7919535f630c0e47a93017c",
+          "lastSyncedAt": "2026-09-23T09:12:18.791Z"
         }
       ]
     },
