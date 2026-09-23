@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-22T04:41:14.265Z",
+  "updatedAt": "2026-09-23T09:19:13.418Z",
   "problems": [
+    {
+      "frontendId": "324",
+      "title": "Wiggle Sort II",
+      "slug": "wiggle-sort-ii",
+      "problemName": "0324-wiggle-sort-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/wiggle-sort-ii/",
+      "folderPath": "0324-wiggle-sort-ii/",
+      "readmePath": "0324-wiggle-sort-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0324-wiggle-sort-ii.py",
+          "path": "0324-wiggle-sort-ii/0324-wiggle-sort-ii.py",
+          "sha": "243ffc3fa50b0fbf63cea08d8a0cb018fd6392d1",
+          "lastSyncedAt": "2026-09-23T09:19:13.418Z"
+        }
+      ]
+    },
     {
       "frontendId": "1520",
       "title": "Maximum Number of Non-Overlapping Substrings",
