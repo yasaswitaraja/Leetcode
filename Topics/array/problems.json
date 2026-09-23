@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-23T09:16:44.050Z",
+  "updatedAt": "2026-09-23T09:17:31.876Z",
   "problems": [
     {
       "frontendId": "31",
@@ -183,6 +183,26 @@
           "path": "2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.py",
           "sha": "4f5e0a9194c6ff2bea998c816349b80c3acbd000",
           "lastSyncedAt": "2026-09-23T09:15:32.099Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2488",
+      "title": "Count Subarrays With Median K",
+      "slug": "count-subarrays-with-median-k",
+      "problemName": "2488-count-subarrays-with-median-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-median-k/",
+      "folderPath": "2488-count-subarrays-with-median-k/",
+      "readmePath": "2488-count-subarrays-with-median-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2488-count-subarrays-with-median-k.py",
+          "path": "2488-count-subarrays-with-median-k/2488-count-subarrays-with-median-k.py",
+          "sha": "0c7a8a350baaeff66edebd39260671317182625b",
+          "lastSyncedAt": "2026-09-23T09:17:31.876Z"
         }
       ]
     },
