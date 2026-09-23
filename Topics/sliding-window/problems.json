@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-23T09:13:33.482Z",
+  "updatedAt": "2026-09-23T09:15:32.099Z",
   "problems": [
     {
       "frontendId": "209",
@@ -63,6 +63,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "4f12333d99ca67bdd7919535f630c0e47a93017c",
           "lastSyncedAt": "2026-09-23T09:12:18.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2090",
+      "title": "K Radius Subarray Averages",
+      "slug": "k-radius-subarray-averages",
+      "problemName": "2090-k-radius-subarray-averages",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-radius-subarray-averages/",
+      "folderPath": "2090-k-radius-subarray-averages/",
+      "readmePath": "2090-k-radius-subarray-averages/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2090-k-radius-subarray-averages.py",
+          "path": "2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.py",
+          "sha": "4f5e0a9194c6ff2bea998c816349b80c3acbd000",
+          "lastSyncedAt": "2026-09-23T09:15:32.099Z"
         }
       ]
     }
