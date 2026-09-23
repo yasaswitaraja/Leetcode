@@ -4,8 +4,28 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-22T04:41:57.836Z",
+  "updatedAt": "2026-09-23T09:18:25.510Z",
   "problems": [
+    {
+      "frontendId": "2763",
+      "title": "Sum of Imbalance Numbers of All Subarrays",
+      "slug": "sum-of-imbalance-numbers-of-all-subarrays",
+      "problemName": "2763-sum-of-imbalance-numbers-of-all-subarrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/",
+      "folderPath": "2763-sum-of-imbalance-numbers-of-all-subarrays/",
+      "readmePath": "2763-sum-of-imbalance-numbers-of-all-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2763-sum-of-imbalance-numbers-of-all-subarrays.py",
+          "path": "2763-sum-of-imbalance-numbers-of-all-subarrays/2763-sum-of-imbalance-numbers-of-all-subarrays.py",
+          "sha": "c169385aed56ee847b51fdcb9f33857ee6b466cd",
+          "lastSyncedAt": "2026-09-23T09:18:25.510Z"
+        }
+      ]
+    },
     {
       "frontendId": "3483",
       "title": "Unique 3-Digit Even Numbers",
