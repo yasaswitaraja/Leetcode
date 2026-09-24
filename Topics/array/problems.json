@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-23T09:20:47.278Z",
+  "updatedAt": "2026-09-24T10:02:57.859Z",
   "problems": [
     {
       "frontendId": "4",
@@ -343,6 +343,26 @@
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.py",
           "sha": "40e7f3b93b585c23bffcc4bc03eccee02c89073c",
           "lastSyncedAt": "2026-09-22T04:40:31.215Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3550",
+      "title": "Smallest Index With Digit Sum Equal to Index",
+      "slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+      "folderPath": "3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3550-smallest-index-with-digit-sum-equal-to-index.py",
+          "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.py",
+          "sha": "e8618311cb05c68da7d4dfbd3983d04f23de1c5c",
+          "lastSyncedAt": "2026-09-24T10:02:57.859Z"
         }
       ]
     },
