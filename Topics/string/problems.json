@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-22T05:46:30.830Z",
+  "updatedAt": "2026-09-25T13:26:09.330Z",
   "problems": [
     {
       "frontendId": "5",
@@ -143,6 +143,26 @@
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.py",
           "sha": "d021788c847da44ce45c93648117b295fbb14c4e",
           "lastSyncedAt": "2026-09-22T04:42:35.084Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1096-brace-expansion-ii.py",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
+          "sha": "09778ae8666708cb261fee2ba866bc8ecc828ea8",
+          "lastSyncedAt": "2026-09-25T13:26:09.330Z"
         }
       ]
     },
