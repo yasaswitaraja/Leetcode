@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "breadth-first-search",
+    "name": "Breadth-First Search"
+  },
+  "updatedAt": "2026-09-25T13:26:09.330Z",
+  "problems": [
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1096-brace-expansion-ii.py",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
+          "sha": "09778ae8666708cb261fee2ba866bc8ecc828ea8",
+          "lastSyncedAt": "2026-09-25T13:26:09.330Z"
+        }
+      ]
+    }
+  ]
+}
