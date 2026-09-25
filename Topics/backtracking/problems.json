@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-22T05:42:48.789Z",
+  "updatedAt": "2026-09-25T13:26:09.330Z",
   "problems": [
     {
       "frontendId": "22",
@@ -23,6 +23,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.py",
           "sha": "f0b6303f3982f6a8a78fda74ea2ae71668910d24",
           "lastSyncedAt": "2026-09-22T05:42:48.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1096-brace-expansion-ii.py",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
+          "sha": "09778ae8666708cb261fee2ba866bc8ecc828ea8",
+          "lastSyncedAt": "2026-09-25T13:26:09.330Z"
         }
       ]
     }
