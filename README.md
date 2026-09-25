@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 5 | 16 | 13 |
+| 35 | 5 | 16 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 9 |
+| 6 days | 6 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,32 +24,34 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 11 |
 | 2026-09-23 | 7 |
 | 2026-09-24 | 1 |
+| 2026-09-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 50% |
-| Dynamic Programming | 12 | 35% |
-| String | 10 | 29% |
+| Array | 17 | 49% |
+| Dynamic Programming | 12 | 34% |
+| String | 11 | 31% |
+| Hash Table | 9 | 26% |
 | Math | 9 | 26% |
-| Hash Table | 8 | 24% |
-| Binary Search | 5 | 15% |
-| Prefix Sum | 5 | 15% |
-| Sliding Window | 5 | 15% |
-| Two Pointers | 4 | 12% |
-| Bit Manipulation | 2 | 6% |
+| Binary Search | 5 | 14% |
+| Prefix Sum | 5 | 14% |
+| Sliding Window | 5 | 14% |
+| Two Pointers | 4 | 11% |
+| Stack | 3 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 19 |
-| [Backtracking](Topics/backtracking/) | 1 |
+| [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
@@ -57,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [matrix](Topics/matrix/) | 0 |
@@ -68,9 +70,9 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 2 |
-| [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 10 |
+| [Sorting](Topics/sorting/) | 3 |
+| [Stack](Topics/stack/) | 3 |
+| [String](Topics/string/) | 11 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
