@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T05:11:40.865Z",
+  "updatedAt": "2026-09-26T05:12:27.992Z",
   "problems": [
     {
       "frontendId": "4",
@@ -103,6 +103,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "2575f0ffc1b0dd10ac035ee72160344b24ebd0d6",
           "lastSyncedAt": "2026-09-22T05:43:42.661Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "188",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "slug": "best-time-to-buy-and-sell-stock-iv",
+      "problemName": "0188-best-time-to-buy-and-sell-stock-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "folderPath": "0188-best-time-to-buy-and-sell-stock-iv/",
+      "readmePath": "0188-best-time-to-buy-and-sell-stock-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0188-best-time-to-buy-and-sell-stock-iv.py",
+          "path": "0188-best-time-to-buy-and-sell-stock-iv/0188-best-time-to-buy-and-sell-stock-iv.py",
+          "sha": "7effffe99e8bd7043dde5dbe22c1b442f0e42e85",
+          "lastSyncedAt": "2026-09-26T05:12:27.992Z"
         }
       ]
     },
