@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-23T09:20:47.278Z",
+  "updatedAt": "2026-09-26T05:11:40.865Z",
   "problems": [
     {
       "frontendId": "4",
@@ -83,6 +83,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "4f12333d99ca67bdd7919535f630c0e47a93017c",
           "lastSyncedAt": "2026-09-23T09:12:18.791Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2106",
+      "title": "Maximum Fruits Harvested After at Most K Steps",
+      "slug": "maximum-fruits-harvested-after-at-most-k-steps",
+      "problemName": "2106-maximum-fruits-harvested-after-at-most-k-steps",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/",
+      "folderPath": "2106-maximum-fruits-harvested-after-at-most-k-steps/",
+      "readmePath": "2106-maximum-fruits-harvested-after-at-most-k-steps/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2106-maximum-fruits-harvested-after-at-most-k-steps.py",
+          "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.py",
+          "sha": "bc10a64cc949f0209bb6780a8ff1518d7a34a8d2",
+          "lastSyncedAt": "2026-09-26T05:11:40.865Z"
         }
       ]
     },
