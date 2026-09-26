@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T05:13:32.790Z",
+  "updatedAt": "2026-09-26T05:16:00.061Z",
   "problems": [
     {
       "frontendId": "5",
@@ -123,6 +123,26 @@
           "path": "0115-distinct-subsequences/0115-distinct-subsequences.py",
           "sha": "2ad3cc1c18b14332cfe3b1db44a35129a23a06e0",
           "lastSyncedAt": "2026-09-22T04:42:41.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "838",
+      "title": "Push Dominoes",
+      "slug": "push-dominoes",
+      "problemName": "0838-push-dominoes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/push-dominoes/",
+      "folderPath": "0838-push-dominoes/",
+      "readmePath": "0838-push-dominoes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0838-push-dominoes.py",
+          "path": "0838-push-dominoes/0838-push-dominoes.py",
+          "sha": "417c698fc364bd364faecdf4b29a3803180f24ff",
+          "lastSyncedAt": "2026-09-26T05:16:00.061Z"
         }
       ]
     },
