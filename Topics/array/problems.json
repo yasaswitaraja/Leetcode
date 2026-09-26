@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T05:13:47.261Z",
+  "updatedAt": "2026-09-26T05:15:15.980Z",
   "problems": [
     {
       "frontendId": "4",
@@ -343,6 +343,26 @@
           "path": "3117-minimum-sum-of-values-by-dividing-array/3117-minimum-sum-of-values-by-dividing-array.py",
           "sha": "f66e3fb3bfdcd302acb62948f75fdfdfc0d4cc28",
           "lastSyncedAt": "2026-09-22T04:40:18.981Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3145",
+      "title": "Find Products of Elements of Big Array",
+      "slug": "find-products-of-elements-of-big-array",
+      "problemName": "3145-find-products-of-elements-of-big-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-products-of-elements-of-big-array/",
+      "folderPath": "3145-find-products-of-elements-of-big-array/",
+      "readmePath": "3145-find-products-of-elements-of-big-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3145-find-products-of-elements-of-big-array.py",
+          "path": "3145-find-products-of-elements-of-big-array/3145-find-products-of-elements-of-big-array.py",
+          "sha": "96d23bbba1a869650d2b6cdc5346e661762ccb7b",
+          "lastSyncedAt": "2026-09-26T05:15:15.980Z"
         }
       ]
     },
