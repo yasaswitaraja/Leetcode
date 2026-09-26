@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-23T09:16:44.050Z",
+  "updatedAt": "2026-09-26T05:11:40.865Z",
   "problems": [
     {
       "frontendId": "209",
@@ -103,6 +103,26 @@
           "path": "2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.py",
           "sha": "4f5e0a9194c6ff2bea998c816349b80c3acbd000",
           "lastSyncedAt": "2026-09-23T09:15:32.099Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2106",
+      "title": "Maximum Fruits Harvested After at Most K Steps",
+      "slug": "maximum-fruits-harvested-after-at-most-k-steps",
+      "problemName": "2106-maximum-fruits-harvested-after-at-most-k-steps",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/",
+      "folderPath": "2106-maximum-fruits-harvested-after-at-most-k-steps/",
+      "readmePath": "2106-maximum-fruits-harvested-after-at-most-k-steps/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2106-maximum-fruits-harvested-after-at-most-k-steps.py",
+          "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.py",
+          "sha": "bc10a64cc949f0209bb6780a8ff1518d7a34a8d2",
+          "lastSyncedAt": "2026-09-26T05:11:40.865Z"
         }
       ]
     }
