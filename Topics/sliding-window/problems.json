@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-26T05:11:40.865Z",
+  "updatedAt": "2026-09-26T05:12:54.593Z",
   "problems": [
     {
       "frontendId": "209",
@@ -123,6 +123,26 @@
           "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.py",
           "sha": "bc10a64cc949f0209bb6780a8ff1518d7a34a8d2",
           "lastSyncedAt": "2026-09-26T05:11:40.865Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4044",
+      "title": "Count Good Cyclic Rotations",
+      "slug": "count-good-cyclic-rotations",
+      "problemName": "4044-count-good-cyclic-rotations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-cyclic-rotations/",
+      "folderPath": "4044-count-good-cyclic-rotations/",
+      "readmePath": "4044-count-good-cyclic-rotations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4044-count-good-cyclic-rotations.py",
+          "path": "4044-count-good-cyclic-rotations/4044-count-good-cyclic-rotations.py",
+          "sha": "3902062c2958d3d1f20cae4e9733c325c689e458",
+          "lastSyncedAt": "2026-09-26T05:12:54.593Z"
         }
       ]
     }
