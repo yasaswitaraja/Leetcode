@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 5 | 17 | 14 |
+| 37 | 5 | 17 | 15 |
 
 ## Activity
 
@@ -25,20 +25,20 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 7 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
-| 2026-09-26 | 1 |
+| 2026-09-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 50% |
-| Dynamic Programming | 12 | 33% |
-| String | 12 | 33% |
-| Hash Table | 10 | 28% |
-| Math | 9 | 25% |
-| Binary Search | 5 | 14% |
-| Prefix Sum | 5 | 14% |
-| Sliding Window | 5 | 14% |
+| Array | 19 | 51% |
+| Dynamic Programming | 12 | 32% |
+| String | 12 | 32% |
+| Hash Table | 10 | 27% |
+| Math | 9 | 24% |
+| Binary Search | 6 | 16% |
+| Prefix Sum | 6 | 16% |
+| Sliding Window | 6 | 16% |
 | Two Pointers | 4 | 11% |
 | Stack | 3 | 8% |
 
@@ -46,9 +46,9 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -65,12 +65,12 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 9 |
 | [matrix](Topics/matrix/) | 0 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 5 |
+| [Prefix Sum](Topics/prefix-sum/) | 6 |
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 5 |
+| [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 12 |
