@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-26T05:13:13.982Z",
+  "updatedAt": "2026-09-26T05:13:20.810Z",
   "problems": [
     {
       "frontendId": "209",
@@ -122,7 +122,7 @@
           "filename": "2106-maximum-fruits-harvested-after-at-most-k-steps.py",
           "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.py",
           "sha": "bc10a64cc949f0209bb6780a8ff1518d7a34a8d2",
-          "lastSyncedAt": "2026-09-26T05:11:40.865Z"
+          "lastSyncedAt": "2026-09-26T05:13:20.810Z"
         }
       ]
     },
