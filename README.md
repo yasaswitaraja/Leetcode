@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 5 | 17 | 15 |
+| 39 | 5 | 18 | 16 |
 
 ## Activity
 
@@ -25,28 +25,28 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 7 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
-| 2026-09-26 | 2 |
+| 2026-09-26 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 51% |
-| Dynamic Programming | 12 | 32% |
-| String | 12 | 32% |
-| Hash Table | 10 | 27% |
-| Math | 9 | 24% |
-| Binary Search | 6 | 16% |
-| Prefix Sum | 6 | 16% |
-| Sliding Window | 6 | 16% |
-| Two Pointers | 4 | 11% |
+| Array | 21 | 54% |
+| Dynamic Programming | 13 | 33% |
+| String | 12 | 31% |
+| Hash Table | 10 | 26% |
+| Math | 9 | 23% |
+| Prefix Sum | 7 | 18% |
+| Sliding Window | 7 | 18% |
+| Binary Search | 6 | 15% |
+| Two Pointers | 4 | 10% |
 | Stack | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 21 |
+| [Array](Topics/array/) | 23 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -56,7 +56,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 3 |
@@ -65,12 +65,12 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 9 |
 | [matrix](Topics/matrix/) | 0 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 6 |
+| [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 6 |
+| [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 12 |
