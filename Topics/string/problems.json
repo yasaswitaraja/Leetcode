@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T05:16:00.061Z",
+  "updatedAt": "2026-09-27T16:25:43.847Z",
   "problems": [
     {
       "frontendId": "5",
@@ -183,6 +183,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "09778ae8666708cb261fee2ba866bc8ecc828ea8",
           "lastSyncedAt": "2026-09-26T05:13:32.790Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1190",
+      "title": "Reverse Substrings Between Each Pair of Parentheses",
+      "slug": "reverse-substrings-between-each-pair-of-parentheses",
+      "problemName": "1190-reverse-substrings-between-each-pair-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
+      "folderPath": "1190-reverse-substrings-between-each-pair-of-parentheses/",
+      "readmePath": "1190-reverse-substrings-between-each-pair-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.py",
+          "path": "1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.py",
+          "sha": "c71bdec363cf0ea0708e8fd3bc067d8676b33863",
+          "lastSyncedAt": "2026-09-27T16:25:43.847Z"
         }
       ]
     },
