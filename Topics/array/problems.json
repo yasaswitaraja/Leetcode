@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T05:15:15.980Z",
+  "updatedAt": "2026-09-29T17:06:21.762Z",
   "problems": [
     {
       "frontendId": "4",
@@ -283,6 +283,26 @@
           "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.py",
           "sha": "bc10a64cc949f0209bb6780a8ff1518d7a34a8d2",
           "lastSyncedAt": "2026-09-26T05:13:20.810Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.py",
+          "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.py",
+          "sha": "0469949eb363c990f050342ccd353a85e838f8ff",
+          "lastSyncedAt": "2026-09-29T17:06:21.762Z"
         }
       ]
     },
