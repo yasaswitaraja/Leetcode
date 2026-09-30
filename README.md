@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 7 | 21 | 18 |
+| 47 | 8 | 21 | 18 |
 
 ## Activity
 
@@ -25,7 +25,7 @@ Contains topicwise list of solved problems.
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
 | 2026-09-26 | 7 |
-| 2026-09-27 | 1 |
+| 2026-09-27 | 2 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 1 |
@@ -34,11 +34,11 @@ Contains topicwise list of solved problems.
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 50% |
-| String | 16 | 35% |
-| Dynamic Programming | 15 | 33% |
-| Hash Table | 10 | 22% |
-| Math | 9 | 20% |
+| Array | 23 | 49% |
+| String | 16 | 34% |
+| Dynamic Programming | 15 | 32% |
+| Hash Table | 10 | 21% |
+| Math | 9 | 19% |
 | Binary Search | 7 | 15% |
 | Prefix Sum | 7 | 15% |
 | Sliding Window | 7 | 15% |
