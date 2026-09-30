@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-30T12:09:04.871Z",
+  "updatedAt": "2026-09-30T12:11:51.146Z",
   "problems": [
     {
       "frontendId": "10",
@@ -42,7 +42,7 @@
           "filename": "0044-wildcard-matching.py",
           "path": "0044-wildcard-matching/0044-wildcard-matching.py",
           "sha": "29831bdba1875ae024e770620ebc27abbbcaf1cb",
-          "lastSyncedAt": "2026-09-30T12:09:04.871Z"
+          "lastSyncedAt": "2026-09-30T12:11:51.146Z"
         }
       ]
     },
