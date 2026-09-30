@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T12:07:09.436Z",
+  "updatedAt": "2026-09-30T12:08:54.471Z",
   "problems": [
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "8d41c0ebb3322a4644cec2d34c1571f7e616c114",
+          "lastSyncedAt": "2026-09-30T12:08:54.471Z"
+        }
+      ]
+    },
     {
       "frontendId": "324",
       "title": "Wiggle Sort II",
