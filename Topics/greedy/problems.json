@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-30T12:07:09.436Z",
+  "updatedAt": "2026-09-30T12:09:04.871Z",
   "problems": [
+    {
+      "frontendId": "44",
+      "title": "Wildcard Matching",
+      "slug": "wildcard-matching",
+      "problemName": "0044-wildcard-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+      "folderPath": "0044-wildcard-matching/",
+      "readmePath": "0044-wildcard-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0044-wildcard-matching.py",
+          "path": "0044-wildcard-matching/0044-wildcard-matching.py",
+          "sha": "29831bdba1875ae024e770620ebc27abbbcaf1cb",
+          "lastSyncedAt": "2026-09-30T12:09:04.871Z"
+        }
+      ]
+    },
     {
       "frontendId": "324",
       "title": "Wiggle Sort II",
