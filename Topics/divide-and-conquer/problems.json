@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-26T05:14:28.080Z",
+  "updatedAt": "2026-09-30T12:06:20.775Z",
   "problems": [
     {
       "frontendId": "4",
@@ -42,7 +42,7 @@
           "filename": "0190-reverse-bits.py",
           "path": "0190-reverse-bits/0190-reverse-bits.py",
           "sha": "6b1c5e49829d948cbf352aa13b77e390e30ad869",
-          "lastSyncedAt": "2026-09-26T05:14:28.080Z"
+          "lastSyncedAt": "2026-09-30T12:06:20.775Z"
         }
       ]
     },
