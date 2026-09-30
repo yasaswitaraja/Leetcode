@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 8 | 21 | 18 |
+| 53 | 9 | 24 | 20 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 11 days | 15 |
+| 11 days | 11 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,7 +20,7 @@ Contains topicwise list of solved problems.
 | 2026-09-11 | 1 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 6 |
-| 2026-09-22 | 11 |
+| 2026-09-22 | 16 |
 | 2026-09-23 | 7 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
@@ -34,23 +34,23 @@ Contains topicwise list of solved problems.
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 49% |
-| String | 16 | 34% |
-| Dynamic Programming | 15 | 32% |
-| Hash Table | 10 | 21% |
-| Math | 9 | 19% |
-| Binary Search | 7 | 15% |
-| Prefix Sum | 7 | 15% |
-| Sliding Window | 7 | 15% |
-| Bracket Sequences | 6 | 13% |
-| Stack | 6 | 13% |
+| Array | 24 | 45% |
+| String | 22 | 42% |
+| Dynamic Programming | 16 | 30% |
+| Hash Table | 14 | 26% |
+| Math | 10 | 19% |
+| Sliding Window | 8 | 15% |
+| Binary Search | 7 | 13% |
+| Prefix Sum | 7 | 13% |
+| Bracket Sequences | 6 | 11% |
+| Stack | 6 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
-| [Backtracking](Topics/backtracking/) | 2 |
+| [Array](Topics/array/) | 26 |
+| [Backtracking](Topics/backtracking/) | 3 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
@@ -59,24 +59,25 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Greedy](Topics/greedy/) | 4 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 9 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Math](Topics/math/) | 10 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Quickselect](Topics/quickselect/) | 1 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 7 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sliding Window](Topics/sliding-window/) | 8 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 6 |
-| [String](Topics/string/) | 16 |
+| [String](Topics/string/) | 22 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
