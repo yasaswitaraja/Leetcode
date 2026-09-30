@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-30T12:08:33.907Z",
+  "updatedAt": "2026-09-30T12:09:04.871Z",
   "problems": [
     {
       "frontendId": "10",
@@ -23,6 +23,26 @@
           "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
           "sha": "3bcf689a98cf30f6676fe8b43fc153bd830d2415",
           "lastSyncedAt": "2026-09-30T12:08:33.907Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "44",
+      "title": "Wildcard Matching",
+      "slug": "wildcard-matching",
+      "problemName": "0044-wildcard-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+      "folderPath": "0044-wildcard-matching/",
+      "readmePath": "0044-wildcard-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0044-wildcard-matching.py",
+          "path": "0044-wildcard-matching/0044-wildcard-matching.py",
+          "sha": "29831bdba1875ae024e770620ebc27abbbcaf1cb",
+          "lastSyncedAt": "2026-09-30T12:09:04.871Z"
         }
       ]
     },
