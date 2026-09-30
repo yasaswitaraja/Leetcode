@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T12:08:54.471Z",
+  "updatedAt": "2026-09-30T12:09:04.871Z",
   "problems": [
     {
       "frontendId": "5",
@@ -103,6 +103,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "f9d9def02813c95522a2e7a5ae706542abae4122",
           "lastSyncedAt": "2026-09-30T12:08:00.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "44",
+      "title": "Wildcard Matching",
+      "slug": "wildcard-matching",
+      "problemName": "0044-wildcard-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+      "folderPath": "0044-wildcard-matching/",
+      "readmePath": "0044-wildcard-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0044-wildcard-matching.py",
+          "path": "0044-wildcard-matching/0044-wildcard-matching.py",
+          "sha": "29831bdba1875ae024e770620ebc27abbbcaf1cb",
+          "lastSyncedAt": "2026-09-30T12:09:04.871Z"
         }
       ]
     },
