@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T12:09:16.264Z",
+  "updatedAt": "2026-09-30T12:09:21.766Z",
   "problems": [
     {
       "frontendId": "5",
@@ -83,6 +83,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.py",
           "sha": "f0b6303f3982f6a8a78fda74ea2ae71668910d24",
           "lastSyncedAt": "2026-09-30T12:08:25.909Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "30",
+      "title": "Substring with Concatenation of All Words",
+      "slug": "substring-with-concatenation-of-all-words",
+      "problemName": "0030-substring-with-concatenation-of-all-words",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+      "folderPath": "0030-substring-with-concatenation-of-all-words/",
+      "readmePath": "0030-substring-with-concatenation-of-all-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0030-substring-with-concatenation-of-all-words.py",
+          "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
+          "sha": "4064dc4ea1e31a0d87948b571193ec25c8d62076",
+          "lastSyncedAt": "2026-09-30T12:09:21.766Z"
         }
       ]
     },
