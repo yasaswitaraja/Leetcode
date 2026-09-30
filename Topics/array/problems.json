@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T12:07:25.688Z",
+  "updatedAt": "2026-09-30T12:07:30.802Z",
   "problems": [
     {
       "frontendId": "4",
@@ -182,7 +182,7 @@
           "filename": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py",
           "path": "1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py",
           "sha": "73a4b2cfe76ad60126ad3bd8bf8b01573e1376bc",
-          "lastSyncedAt": "2026-09-23T09:16:44.050Z"
+          "lastSyncedAt": "2026-09-30T12:07:30.802Z"
         }
       ]
     },
