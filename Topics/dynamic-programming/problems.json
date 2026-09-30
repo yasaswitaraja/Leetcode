@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T12:05:45.324Z",
+  "updatedAt": "2026-09-30T12:06:07.736Z",
   "problems": [
     {
       "frontendId": "5",
@@ -162,7 +162,7 @@
           "filename": "0838-push-dominoes.py",
           "path": "0838-push-dominoes/0838-push-dominoes.py",
           "sha": "417c698fc364bd364faecdf4b29a3803180f24ff",
-          "lastSyncedAt": "2026-09-26T05:16:00.061Z"
+          "lastSyncedAt": "2026-09-30T12:06:07.736Z"
         }
       ]
     },
