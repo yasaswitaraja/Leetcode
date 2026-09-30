@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-30T12:07:45.974Z",
+  "updatedAt": "2026-09-30T12:09:21.766Z",
   "problems": [
+    {
+      "frontendId": "30",
+      "title": "Substring with Concatenation of All Words",
+      "slug": "substring-with-concatenation-of-all-words",
+      "problemName": "0030-substring-with-concatenation-of-all-words",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+      "folderPath": "0030-substring-with-concatenation-of-all-words/",
+      "readmePath": "0030-substring-with-concatenation-of-all-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0030-substring-with-concatenation-of-all-words.py",
+          "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
+          "sha": "4064dc4ea1e31a0d87948b571193ec25c8d62076",
+          "lastSyncedAt": "2026-09-30T12:09:21.766Z"
+        }
+      ]
+    },
     {
       "frontendId": "209",
       "title": "Minimum Size Subarray Sum",
