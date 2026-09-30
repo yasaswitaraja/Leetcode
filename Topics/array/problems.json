@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T12:08:48.149Z",
+  "updatedAt": "2026-09-30T12:08:54.471Z",
   "problems": [
     {
       "frontendId": "4",
@@ -103,6 +103,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "2575f0ffc1b0dd10ac035ee72160344b24ebd0d6",
           "lastSyncedAt": "2026-09-30T12:08:17.108Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "8d41c0ebb3322a4644cec2d34c1571f7e616c114",
+          "lastSyncedAt": "2026-09-30T12:08:54.471Z"
         }
       ]
     },
