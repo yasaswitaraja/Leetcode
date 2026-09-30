@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T12:08:54.471Z",
+  "updatedAt": "2026-09-30T12:09:51.198Z",
   "problems": [
     {
       "frontendId": "4",
@@ -382,7 +382,7 @@
           "filename": "3117-minimum-sum-of-values-by-dividing-array.py",
           "path": "3117-minimum-sum-of-values-by-dividing-array/3117-minimum-sum-of-values-by-dividing-array.py",
           "sha": "f66e3fb3bfdcd302acb62948f75fdfdfc0d4cc28",
-          "lastSyncedAt": "2026-09-22T04:40:18.981Z"
+          "lastSyncedAt": "2026-09-30T12:09:51.198Z"
         }
       ]
     },
