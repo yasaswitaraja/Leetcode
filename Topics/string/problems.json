@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T12:08:33.907Z",
+  "updatedAt": "2026-09-30T12:08:39.808Z",
   "problems": [
     {
       "frontendId": "5",
@@ -22,7 +22,7 @@
           "filename": "0005-longest-palindromic-substring.py",
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "1cafe79fe70ad8c2060061ef44fa1ac6a0fbeb85",
-          "lastSyncedAt": "2026-09-22T05:41:33.096Z"
+          "lastSyncedAt": "2026-09-30T12:08:39.808Z"
         }
       ]
     },
