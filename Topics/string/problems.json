@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T03:30:54.805Z",
+  "updatedAt": "2026-10-04T03:53:12.298Z",
   "problems": [
     {
       "frontendId": "5",
@@ -263,6 +263,26 @@
           "path": "0115-distinct-subsequences/0115-distinct-subsequences.py",
           "sha": "2ad3cc1c18b14332cfe3b1db44a35129a23a06e0",
           "lastSyncedAt": "2026-09-22T04:42:41.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0678-valid-parenthesis-string.py",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
+          "sha": "222183537c6a187f3604f7af44d4767f5a858508",
+          "lastSyncedAt": "2026-10-04T03:53:12.298Z"
         }
       ]
     },
