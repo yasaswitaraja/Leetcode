@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-03T03:30:54.805Z",
+  "updatedAt": "2026-10-05T16:55:09.801Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "2575f0ffc1b0dd10ac035ee72160344b24ebd0d6",
           "lastSyncedAt": "2026-09-30T12:08:17.108Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "0856-score-of-parentheses/",
+      "readmePath": "0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0856-score-of-parentheses.py",
+          "path": "0856-score-of-parentheses/0856-score-of-parentheses.py",
+          "sha": "f58f12d486b3ba6e3aaca83660554b4be6680e7f",
+          "lastSyncedAt": "2026-10-05T16:55:09.801Z"
         }
       ]
     },
