@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-07T04:54:11.506Z",
+  "updatedAt": "2026-10-09T08:25:26.747Z",
   "problems": [
     {
       "frontendId": "5",
@@ -383,6 +384,26 @@
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.py",
           "sha": "d021788c847da44ce45c93648117b295fbb14c4e",
           "lastSyncedAt": "2026-09-22T04:42:35.084Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1021-remove-outermost-parentheses.py",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.py",
+          "sha": "5b64e78a6f37ff06b577a34556d202b1feb07a3b",
+          "lastSyncedAt": "2026-10-09T08:25:26.747Z"
         }
       ]
     },
