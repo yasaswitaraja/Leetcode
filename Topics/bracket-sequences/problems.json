@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-09T08:25:26.747Z",
+  "updatedAt": "2026-10-09T08:26:21.282Z",
   "problems": [
     {
       "frontendId": "20",
@@ -164,6 +164,26 @@
           "path": "1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.py",
           "sha": "c71bdec363cf0ea0708e8fd3bc067d8676b33863",
           "lastSyncedAt": "2026-09-30T12:11:39.291Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1541",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "slug": "minimum-insertions-to-balance-a-parentheses-string",
+      "problemName": "1541-minimum-insertions-to-balance-a-parentheses-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+      "folderPath": "1541-minimum-insertions-to-balance-a-parentheses-string/",
+      "readmePath": "1541-minimum-insertions-to-balance-a-parentheses-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.py",
+          "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.py",
+          "sha": "7052d6233eb3b46d09d2caabd809f8c2a3a2f85c",
+          "lastSyncedAt": "2026-10-09T08:26:21.282Z"
         }
       ]
     },
