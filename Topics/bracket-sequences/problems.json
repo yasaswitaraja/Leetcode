@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bracket-sequences",
-    "name": "Bracket Sequences"
+    "name": "Bracket Sequences",
+    "tagId": "122055"
   },
-  "updatedAt": "2026-10-06T04:15:22.952Z",
+  "updatedAt": "2026-10-09T08:25:26.747Z",
   "problems": [
     {
       "frontendId": "20",
@@ -103,6 +104,26 @@
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.py",
           "sha": "ba55322980186441ab45a174d036c7df95f35e8b",
           "lastSyncedAt": "2026-10-06T04:15:22.952Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1021",
+      "title": "Remove Outermost Parentheses",
+      "slug": "remove-outermost-parentheses",
+      "problemName": "1021-remove-outermost-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "folderPath": "1021-remove-outermost-parentheses/",
+      "readmePath": "1021-remove-outermost-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1021-remove-outermost-parentheses.py",
+          "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.py",
+          "sha": "5b64e78a6f37ff06b577a34556d202b1feb07a3b",
+          "lastSyncedAt": "2026-10-09T08:25:26.747Z"
         }
       ]
     },
