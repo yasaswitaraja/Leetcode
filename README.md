@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 11 | 26 | 21 |
+| 59 | 11 | 27 | 21 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-10-05 | 1 |
 | 2026-10-06 | 1 |
 | 2026-10-07 | 1 |
-| 2026-10-09 | 1 |
+| 2026-10-09 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 27 | 47% |
+| String | 28 | 47% |
 | Array | 24 | 41% |
-| Dynamic Programming | 16 | 28% |
+| Dynamic Programming | 16 | 27% |
 | Hash Table | 14 | 24% |
-| Bracket Sequences | 10 | 17% |
+| Bracket Sequences | 11 | 19% |
+| Stack | 11 | 19% |
 | Math | 10 | 17% |
-| Stack | 10 | 17% |
 | Sliding Window | 8 | 14% |
 | Binary Search | 7 | 12% |
 | Prefix Sum | 7 | 12% |
@@ -54,7 +54,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 10 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 11 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 16 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 5 |
+| [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 15 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 10 |
@@ -76,8 +76,8 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 4 |
-| [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 28 |
+| [Stack](Topics/stack/) | 11 |
+| [String](Topics/string/) | 29 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
