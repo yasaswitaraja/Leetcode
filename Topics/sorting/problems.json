@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-09-30T12:08:54.471Z",
+  "updatedAt": "2026-10-10T09:53:49.880Z",
   "problems": [
     {
       "frontendId": "49",
@@ -83,6 +84,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "dff51d2331570ca3bacd37ca23ffee3418d937a4",
           "lastSyncedAt": "2026-09-22T04:41:14.265Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2333-minimum-sum-of-squared-difference.py",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.py",
+          "sha": "44dc43919a90f598acfcd722a07571f22a84a975",
+          "lastSyncedAt": "2026-10-10T09:53:49.880Z"
         }
       ]
     }
