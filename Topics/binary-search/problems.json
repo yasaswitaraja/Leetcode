@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-09-30T12:11:51.547Z",
+  "updatedAt": "2026-10-10T09:53:49.880Z",
   "problems": [
     {
       "frontendId": "4",
@@ -103,6 +104,26 @@
           "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.py",
           "sha": "bc10a64cc949f0209bb6780a8ff1518d7a34a8d2",
           "lastSyncedAt": "2026-09-30T12:06:34.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2333-minimum-sum-of-squared-difference.py",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.py",
+          "sha": "44dc43919a90f598acfcd722a07571f22a84a975",
+          "lastSyncedAt": "2026-10-10T09:53:49.880Z"
         }
       ]
     },
