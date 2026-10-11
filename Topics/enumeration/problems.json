@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "enumeration",
-    "name": "Enumeration"
+    "name": "Enumeration",
+    "tagId": "61066"
   },
-  "updatedAt": "2026-09-30T12:07:20.503Z",
+  "updatedAt": "2026-10-11T06:55:02.592Z",
   "problems": [
     {
       "frontendId": "2763",
@@ -23,6 +24,26 @@
           "path": "2763-sum-of-imbalance-numbers-of-all-subarrays/2763-sum-of-imbalance-numbers-of-all-subarrays.py",
           "sha": "c169385aed56ee847b51fdcb9f33857ee6b466cd",
           "lastSyncedAt": "2026-09-30T12:07:20.503Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2778-sum-of-squares-of-special-elements.py",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.py",
+          "sha": "18d8472713a287fbbac0b631b30161c29361f3ae",
+          "lastSyncedAt": "2026-10-11T06:55:02.592Z"
         }
       ]
     },
