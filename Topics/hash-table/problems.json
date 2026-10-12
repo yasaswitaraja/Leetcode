@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-09-30T12:09:45.837Z",
+  "updatedAt": "2026-10-12T09:28:16.380Z",
   "problems": [
     {
       "frontendId": "12",
@@ -283,6 +284,26 @@
           "path": "2763-sum-of-imbalance-numbers-of-all-subarrays/2763-sum-of-imbalance-numbers-of-all-subarrays.py",
           "sha": "c169385aed56ee847b51fdcb9f33857ee6b466cd",
           "lastSyncedAt": "2026-09-30T12:07:20.503Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+      "folderPath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
+          "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
+          "sha": "09a1f9e3f2ba94103bef05286bc849f565b131c9",
+          "lastSyncedAt": "2026-10-12T09:28:16.380Z"
         }
       ]
     },
