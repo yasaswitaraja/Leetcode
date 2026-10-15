@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "segment-tree",
-    "name": "Segment Tree"
+    "name": "Segment Tree",
+    "tagId": "29"
   },
-  "updatedAt": "2026-09-22T04:40:31.215Z",
+  "updatedAt": "2026-10-15T07:37:04.063Z",
   "problems": [
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.py",
+          "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.py",
+          "sha": "9279d5c328045a8293fe1ea1667a70fe85ce91ed",
+          "lastSyncedAt": "2026-10-15T07:37:04.063Z"
+        }
+      ]
+    },
     {
       "frontendId": "3117",
       "title": "Minimum Sum of Values by Dividing Array",
