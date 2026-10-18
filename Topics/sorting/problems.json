@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-10T09:53:49.880Z",
+  "updatedAt": "2026-10-18T13:26:23.517Z",
   "problems": [
     {
       "frontendId": "49",
@@ -104,6 +104,26 @@
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.py",
           "sha": "44dc43919a90f598acfcd722a07571f22a84a975",
           "lastSyncedAt": "2026-10-10T09:53:49.880Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3551",
+      "title": "Minimum Swaps to Sort by Digit Sum",
+      "slug": "minimum-swaps-to-sort-by-digit-sum",
+      "problemName": "3551-minimum-swaps-to-sort-by-digit-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+      "folderPath": "3551-minimum-swaps-to-sort-by-digit-sum/",
+      "readmePath": "3551-minimum-swaps-to-sort-by-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3551-minimum-swaps-to-sort-by-digit-sum.py",
+          "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.py",
+          "sha": "92635afe7b773233d59cc2be2dcb15c7ae048f67",
+          "lastSyncedAt": "2026-10-18T13:26:23.517Z"
         }
       ]
     }
