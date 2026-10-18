@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T07:37:04.063Z",
+  "updatedAt": "2026-10-18T13:24:41.429Z",
   "problems": [
     {
       "frontendId": "4",
@@ -224,6 +224,26 @@
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py",
           "sha": "8c6d897a4e0f1ebe61be7f3a081da30a3ad8ba18",
           "lastSyncedAt": "2026-09-22T04:41:00.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.py",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.py",
+          "sha": "bc0fc3f1400603c44233840a666333535e7d2ee3",
+          "lastSyncedAt": "2026-10-18T13:24:41.429Z"
         }
       ]
     },
