@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 13 | 29 | 23 |
+| 66 | 13 | 30 | 23 |
 
 ## Activity
 
@@ -28,16 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-15 | 1 |
-| 2026-10-18 | 2 |
+| 2026-10-18 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 45% |
-| String | 29 | 45% |
+| Array | 30 | 45% |
+| String | 29 | 44% |
+| Hash Table | 18 | 27% |
 | Dynamic Programming | 17 | 26% |
-| Hash Table | 17 | 26% |
 | Bracket Sequences | 11 | 17% |
 | Math | 11 | 17% |
 | Stack | 11 | 17% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 18 |
+| [Hash Table](Topics/hash-table/) | 19 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 11 |
@@ -80,7 +80,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 3 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 9 |
-| [Sorting](Topics/sorting/) | 5 |
+| [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 11 |
 | [String](Topics/string/) | 30 |
 | [Tree](Topics/tree/) | 2 |
