@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 13 | 29 | 22 |
+| 65 | 13 | 29 | 23 |
 
 ## Activity
 
@@ -28,47 +28,50 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-15 | 1 |
-| 2026-10-18 | 1 |
+| 2026-10-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
+| Array | 29 | 45% |
 | String | 29 | 45% |
-| Array | 28 | 44% |
-| Hash Table | 17 | 27% |
-| Dynamic Programming | 16 | 25% |
+| Dynamic Programming | 17 | 26% |
+| Hash Table | 17 | 26% |
 | Bracket Sequences | 11 | 17% |
+| Math | 11 | 17% |
 | Stack | 11 | 17% |
-| Math | 10 | 16% |
 | Sliding Window | 9 | 14% |
-| Binary Search | 8 | 13% |
+| Binary Search | 8 | 12% |
 | Greedy | 7 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 30 |
+| [Array](Topics/array/) | 31 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
-| [Binary Tree](Topics/binary-tree/) | 1 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 11 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
-| [Combinatorics](Topics/combinatorics/) | 1 |
+| [Combinatorics](Topics/combinatorics/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 16 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
 | [Enumeration](Topics/enumeration/) | 3 |
+| [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 8 |
 | [Hash Table](Topics/hash-table/) | 18 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 10 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 2 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 1 |
@@ -80,6 +83,7 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 11 |
 | [String](Topics/string/) | 30 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
+| [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
