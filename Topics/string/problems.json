@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T13:23:55.884Z",
+  "updatedAt": "2026-10-24T06:10:39.776Z",
   "problems": [
     {
       "frontendId": "3",
@@ -564,6 +564,26 @@
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
           "sha": "30af60f73e71d73ad092561068b5adc0bd0689b7",
           "lastSyncedAt": "2026-09-30T12:06:40.945Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2409",
+      "title": "Count Days Spent Together",
+      "slug": "count-days-spent-together",
+      "problemName": "2409-count-days-spent-together",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+      "folderPath": "2409-count-days-spent-together/",
+      "readmePath": "2409-count-days-spent-together/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2409-count-days-spent-together.py",
+          "path": "2409-count-days-spent-together/2409-count-days-spent-together.py",
+          "sha": "a4241ff587c868ba14041407ec388febc50630d2",
+          "lastSyncedAt": "2026-10-24T06:10:39.776Z"
         }
       ]
     },
