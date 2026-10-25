@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "breadth-first-search",
-    "name": "Breadth-First Search"
+    "name": "Breadth-First Search",
+    "tagId": "22"
   },
-  "updatedAt": "2026-10-07T04:54:11.506Z",
+  "updatedAt": "2026-10-25T15:27:57.328Z",
   "problems": [
     {
       "frontendId": "301",
@@ -43,6 +44,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "09778ae8666708cb261fee2ba866bc8ecc828ea8",
           "lastSyncedAt": "2026-09-30T12:06:47.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1254-number-of-closed-islands.py",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.py",
+          "sha": "24a05b096447bd364cc6a1da03a88ac033b4a2d5",
+          "lastSyncedAt": "2026-10-25T15:27:57.328Z"
         }
       ]
     }
