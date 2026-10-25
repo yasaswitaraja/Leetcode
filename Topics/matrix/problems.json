@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-09-30T12:11:23.474Z",
+  "updatedAt": "2026-10-25T15:27:57.328Z",
   "problems": [
     {
       "frontendId": "36",
@@ -23,6 +24,26 @@
           "path": "0036-valid-sudoku/0036-valid-sudoku.py",
           "sha": "5de20ab87fc7a26a171f325e675c9e8599b039d9",
           "lastSyncedAt": "2026-09-30T12:07:55.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1254-number-of-closed-islands.py",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.py",
+          "sha": "24a05b096447bd364cc6a1da03a88ac033b4a2d5",
+          "lastSyncedAt": "2026-10-25T15:27:57.328Z"
         }
       ]
     },
