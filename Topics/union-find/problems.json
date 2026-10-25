@@ -5,8 +5,28 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-18T13:24:41.429Z",
+  "updatedAt": "2026-10-25T15:27:57.328Z",
   "problems": [
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1254-number-of-closed-islands.py",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.py",
+          "sha": "24a05b096447bd364cc6a1da03a88ac033b4a2d5",
+          "lastSyncedAt": "2026-10-25T15:27:57.328Z"
+        }
+      ]
+    },
     {
       "frontendId": "1569",
       "title": "Number of Ways to Reorder Array to Get Same BST",
