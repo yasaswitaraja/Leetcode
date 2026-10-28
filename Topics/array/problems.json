@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T09:08:06.349Z",
+  "updatedAt": "2026-10-28T11:40:41.735Z",
   "problems": [
     {
       "frontendId": "4",
@@ -684,6 +684,26 @@
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.py",
           "sha": "06cb3236f1f3ec1e4b77d3493f82bc5efe4cd9e4",
           "lastSyncedAt": "2026-10-23T14:38:15.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3882-minimum-xor-path-in-a-grid.py",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.py",
+          "sha": "d41aad0d4a59955c34e09a412b8da57fe74b5e3e",
+          "lastSyncedAt": "2026-10-28T11:40:41.735Z"
         }
       ]
     },
