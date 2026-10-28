@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-18T13:24:41.429Z",
+  "updatedAt": "2026-10-28T11:40:41.735Z",
   "problems": [
     {
       "frontendId": "5",
@@ -344,6 +344,26 @@
           "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.py",
           "sha": "2d0d614b274dc0e0f40e40c489c7b31e91de82aa",
           "lastSyncedAt": "2026-09-22T04:41:34.757Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3882-minimum-xor-path-in-a-grid.py",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.py",
+          "sha": "d41aad0d4a59955c34e09a412b8da57fe74b5e3e",
+          "lastSyncedAt": "2026-10-28T11:40:41.735Z"
         }
       ]
     }
