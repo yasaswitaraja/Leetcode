@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 15 | 35 | 23 |
+| 74 | 15 | 36 | 23 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
-| 2026-10-29 | 1 |
+| 2026-10-29 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 48% |
-| String | 30 | 41% |
-| Hash Table | 18 | 25% |
+| Array | 35 | 47% |
+| String | 31 | 42% |
+| Hash Table | 18 | 24% |
 | Dynamic Programming | 17 | 23% |
 | Math | 12 | 16% |
 | Bracket Sequences | 11 | 15% |
 | Stack | 11 | 15% |
 | Sliding Window | 9 | 12% |
 | Binary Search | 8 | 11% |
-| Greedy | 7 | 10% |
+| Greedy | 7 | 9% |
 
 ## Topics
 
@@ -57,12 +57,12 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 11 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 5 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
-| [Depth-First Search](Topics/depth-first-search/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 18 |
-| [Enumeration](Topics/enumeration/) | 3 |
+| [Enumeration](Topics/enumeration/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 31 |
+| [String](Topics/string/) | 32 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 | [Union-Find](Topics/union-find/) | 3 |
