@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T11:40:41.735Z",
+  "updatedAt": "2026-10-29T16:23:25.240Z",
   "problems": [
     {
       "frontendId": "4",
@@ -204,6 +204,26 @@
           "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.py",
           "sha": "24a05b096447bd364cc6a1da03a88ac033b4a2d5",
           "lastSyncedAt": "2026-10-25T15:27:57.328Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1298",
+      "title": "Maximum Candies You Can Get from Boxes",
+      "slug": "maximum-candies-you-can-get-from-boxes",
+      "problemName": "1298-maximum-candies-you-can-get-from-boxes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/",
+      "folderPath": "1298-maximum-candies-you-can-get-from-boxes/",
+      "readmePath": "1298-maximum-candies-you-can-get-from-boxes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1298-maximum-candies-you-can-get-from-boxes.py",
+          "path": "1298-maximum-candies-you-can-get-from-boxes/1298-maximum-candies-you-can-get-from-boxes.py",
+          "sha": "d9b05eebd7855c350d72e5d8e82747cd6a14a068",
+          "lastSyncedAt": "2026-10-29T16:23:25.240Z"
         }
       ]
     },
