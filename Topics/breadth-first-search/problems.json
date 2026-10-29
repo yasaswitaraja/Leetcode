@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-29T16:26:47.414Z",
+  "updatedAt": "2026-10-29T16:27:47.751Z",
   "problems": [
     {
       "frontendId": "301",
@@ -64,6 +64,26 @@
           "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.py",
           "sha": "24a05b096447bd364cc6a1da03a88ac033b4a2d5",
           "lastSyncedAt": "2026-10-25T15:27:57.328Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1625",
+      "title": "Lexicographically Smallest String After Applying Operations",
+      "slug": "lexicographically-smallest-string-after-applying-operations",
+      "problemName": "1625-lexicographically-smallest-string-after-applying-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/",
+      "folderPath": "1625-lexicographically-smallest-string-after-applying-operations/",
+      "readmePath": "1625-lexicographically-smallest-string-after-applying-operations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1625-lexicographically-smallest-string-after-applying-operations.py",
+          "path": "1625-lexicographically-smallest-string-after-applying-operations/1625-lexicographically-smallest-string-after-applying-operations.py",
+          "sha": "8cb73484c5e0ec1179cdb764f691629ec051d128",
+          "lastSyncedAt": "2026-10-29T16:27:47.751Z"
         }
       ]
     },
