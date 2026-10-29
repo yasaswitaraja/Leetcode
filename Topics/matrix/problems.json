@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-26T09:08:06.349Z",
+  "updatedAt": "2026-10-29T16:26:47.414Z",
   "problems": [
     {
       "frontendId": "36",
@@ -64,6 +64,26 @@
           "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.py",
           "sha": "0469949eb363c990f050342ccd353a85e838f8ff",
           "lastSyncedAt": "2026-09-30T12:11:23.474Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "problemName": "3286-find-a-safe-walk-through-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "folderPath": "3286-find-a-safe-walk-through-a-grid/",
+      "readmePath": "3286-find-a-safe-walk-through-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3286-find-a-safe-walk-through-a-grid.py",
+          "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.py",
+          "sha": "9541f8357862159844d75cc796f947be0946bd43",
+          "lastSyncedAt": "2026-10-29T16:26:47.414Z"
         }
       ]
     },
