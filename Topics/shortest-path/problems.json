@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "shortest-path",
+    "name": "Shortest Path",
+    "tagId": "61076"
+  },
+  "updatedAt": "2026-10-29T16:26:47.414Z",
+  "problems": [
+    {
+      "frontendId": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "problemName": "3286-find-a-safe-walk-through-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "folderPath": "3286-find-a-safe-walk-through-a-grid/",
+      "readmePath": "3286-find-a-safe-walk-through-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3286-find-a-safe-walk-through-a-grid.py",
+          "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.py",
+          "sha": "9541f8357862159844d75cc796f947be0946bd43",
+          "lastSyncedAt": "2026-10-29T16:26:47.414Z"
+        }
+      ]
+    }
+  ]
+}
