@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 77 | 17 | 37 | 23 |
+| 79 | 19 | 37 | 23 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 1 |
 | 2026-10-29 | 2 |
 | 2026-10-30 | 1 |
-| 2026-11-05 | 2 |
+| 2026-11-05 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 37 | 48% |
-| String | 32 | 42% |
-| Hash Table | 18 | 23% |
-| Dynamic Programming | 17 | 22% |
-| Math | 12 | 16% |
+| Array | 39 | 49% |
+| String | 32 | 41% |
+| Hash Table | 19 | 24% |
+| Dynamic Programming | 18 | 23% |
+| Math | 12 | 15% |
 | Bracket Sequences | 11 | 14% |
 | Stack | 11 | 14% |
-| Binary Search | 9 | 12% |
-| Sliding Window | 9 | 12% |
+| Binary Search | 9 | 11% |
+| Sliding Window | 9 | 11% |
 | Greedy | 7 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 43 |
+| [Array](Topics/array/) | 45 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 10 |
@@ -61,13 +61,13 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 18 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 8 |
-| [Hash Table](Topics/hash-table/) | 19 |
+| [Hash Table](Topics/hash-table/) | 20 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 12 |
