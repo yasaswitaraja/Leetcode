@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 15 | 36 | 23 |
+| 76 | 16 | 37 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 12 days | 33 |
+| 1 days | 12 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 1 |
-| 2026-10-09 | 2 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 1 |
@@ -29,18 +27,20 @@ Contains topicwise list of solved problems.
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-29 | 2 |
+| 2026-10-30 | 1 |
+| 2026-11-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 47% |
-| String | 31 | 42% |
+| Array | 36 | 47% |
+| String | 32 | 42% |
 | Hash Table | 18 | 24% |
-| Dynamic Programming | 17 | 23% |
+| Dynamic Programming | 17 | 22% |
 | Math | 12 | 16% |
-| Bracket Sequences | 11 | 15% |
-| Stack | 11 | 15% |
+| Bracket Sequences | 11 | 14% |
+| Stack | 11 | 14% |
 | Sliding Window | 9 | 12% |
 | Binary Search | 8 | 11% |
 | Greedy | 7 | 9% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 9 |
@@ -65,10 +65,10 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Graph Theory](Topics/graph/) | 1 |
+| [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 8 |
 | [Hash Table](Topics/hash-table/) | 19 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 5 |
@@ -79,13 +79,13 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 3 |
-| [Shortest Path](Topics/shortest-path/) | 1 |
+| [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 9 |
-| [Sorting](Topics/sorting/) | 6 |
+| [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 32 |
+| [String](Topics/string/) | 33 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 | [Union-Find](Topics/union-find/) | 3 |
 <!---LeetHub Summary End-->
