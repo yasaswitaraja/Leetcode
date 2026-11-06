@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-18T13:23:55.884Z",
+  "updatedAt": "2026-11-06T01:15:31.936Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "2106-maximum-fruits-harvested-after-at-most-k-steps/2106-maximum-fruits-harvested-after-at-most-k-steps.py",
           "sha": "bc10a64cc949f0209bb6780a8ff1518d7a34a8d2",
           "lastSyncedAt": "2026-09-30T12:06:34.346Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "2747-count-zero-request-servers/",
+      "readmePath": "2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2747-count-zero-request-servers.py",
+          "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.py",
+          "sha": "80154a256864a015d47669766d4c239f492f3b0f",
+          "lastSyncedAt": "2026-11-06T01:15:31.936Z"
         }
       ]
     },
