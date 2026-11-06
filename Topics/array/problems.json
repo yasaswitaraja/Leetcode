@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-06T01:24:37.231Z",
+  "updatedAt": "2026-11-06T14:16:32.992Z",
   "problems": [
     {
       "frontendId": "1",
@@ -864,6 +864,26 @@
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.py",
           "sha": "06cb3236f1f3ec1e4b77d3493f82bc5efe4cd9e4",
           "lastSyncedAt": "2026-10-23T14:38:15.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3691",
+      "title": "Maximum Total Subarray Value II",
+      "slug": "maximum-total-subarray-value-ii",
+      "problemName": "3691-maximum-total-subarray-value-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-ii/",
+      "folderPath": "3691-maximum-total-subarray-value-ii/",
+      "readmePath": "3691-maximum-total-subarray-value-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3691-maximum-total-subarray-value-ii.py",
+          "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.py",
+          "sha": "68f6316a5892566c0563053ae34ac0734009b8dd",
+          "lastSyncedAt": "2026-11-06T14:16:32.992Z"
         }
       ]
     },
