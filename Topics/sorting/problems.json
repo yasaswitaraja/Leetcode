@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-05T15:46:15.600Z",
+  "updatedAt": "2026-11-06T01:15:31.936Z",
   "problems": [
     {
       "frontendId": "49",
@@ -144,6 +144,26 @@
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.py",
           "sha": "44dc43919a90f598acfcd722a07571f22a84a975",
           "lastSyncedAt": "2026-10-10T09:53:49.880Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "2747-count-zero-request-servers/",
+      "readmePath": "2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2747-count-zero-request-servers.py",
+          "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.py",
+          "sha": "80154a256864a015d47669766d4c239f492f3b0f",
+          "lastSyncedAt": "2026-11-06T01:15:31.936Z"
         }
       ]
     },
