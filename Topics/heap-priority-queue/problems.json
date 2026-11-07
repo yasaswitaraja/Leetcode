@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-06T14:16:32.992Z",
+  "updatedAt": "2026-11-07T17:59:40.666Z",
   "problems": [
+    {
+      "frontendId": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "problemName": "1882-process-tasks-using-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+      "folderPath": "1882-process-tasks-using-servers/",
+      "readmePath": "1882-process-tasks-using-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1882-process-tasks-using-servers.py",
+          "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.py",
+          "sha": "eee41dcf008bf8397d89628d328d6e95ab85f56e",
+          "lastSyncedAt": "2026-11-07T17:59:40.666Z"
+        }
+      ]
+    },
     {
       "frontendId": "2333",
       "title": "Minimum Sum of Squared Difference",
