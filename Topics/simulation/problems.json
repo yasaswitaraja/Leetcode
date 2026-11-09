@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-09-22T04:41:44.115Z",
+  "updatedAt": "2026-11-09T16:05:02.570Z",
   "problems": [
+    {
+      "frontendId": "1606",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "slug": "find-servers-that-handled-most-number-of-requests",
+      "problemName": "1606-find-servers-that-handled-most-number-of-requests",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/",
+      "folderPath": "1606-find-servers-that-handled-most-number-of-requests/",
+      "readmePath": "1606-find-servers-that-handled-most-number-of-requests/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1606-find-servers-that-handled-most-number-of-requests.py",
+          "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.py",
+          "sha": "ffbe3036f2f2adc6f0c301c3332d6fd1cab4fa35",
+          "lastSyncedAt": "2026-11-09T16:05:02.570Z"
+        }
+      ]
+    },
     {
       "frontendId": "3498",
       "title": "Reverse Degree of a String",
