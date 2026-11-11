@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 83 | 20 | 39 | 24 |
+| 85 | 20 | 40 | 25 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 12 days | 37 |
+| 1 days | 12 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-12 | 1 |
-| 2026-10-15 | 1 |
 | 2026-10-18 | 3 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
@@ -29,27 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-11-05 | 5 |
 | 2026-11-06 | 2 |
 | 2026-11-07 | 1 |
+| 2026-11-09 | 1 |
+| 2026-11-11 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 43 | 52% |
-| String | 32 | 39% |
+| Array | 44 | 52% |
+| String | 32 | 38% |
 | Hash Table | 20 | 24% |
-| Dynamic Programming | 18 | 22% |
-| Math | 12 | 14% |
+| Dynamic Programming | 18 | 21% |
+| Math | 13 | 15% |
 | Bracket Sequences | 11 | 13% |
 | Stack | 11 | 13% |
 | Binary Search | 10 | 12% |
 | Sliding Window | 10 | 12% |
-| Greedy | 8 | 10% |
+| Greedy | 9 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 50 |
+| [Array](Topics/array/) | 51 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
@@ -67,14 +67,15 @@ Contains topicwise list of solved problems.
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph Theory](Topics/graph/) | 2 |
-| [Greedy](Topics/greedy/) | 9 |
+| [Greedy](Topics/greedy/) | 10 |
 | [Hash Table](Topics/hash-table/) | 21 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 12 |
+| [Math](Topics/math/) | 13 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
@@ -82,7 +83,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 4 |
 | [Shortest Path](Topics/shortest-path/) | 2 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 10 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 11 |
