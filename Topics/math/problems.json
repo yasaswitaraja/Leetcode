@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T06:10:39.776Z",
+  "updatedAt": "2026-11-11T15:02:26.586Z",
   "problems": [
     {
       "frontendId": "12",
@@ -204,6 +204,26 @@
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.py",
           "sha": "e8618311cb05c68da7d4dfbd3983d04f23de1c5c",
           "lastSyncedAt": "2026-09-30T12:06:59.326Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3789",
+      "title": "Minimum Cost to Acquire Required Items",
+      "slug": "minimum-cost-to-acquire-required-items",
+      "problemName": "3789-minimum-cost-to-acquire-required-items",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
+      "folderPath": "3789-minimum-cost-to-acquire-required-items/",
+      "readmePath": "3789-minimum-cost-to-acquire-required-items/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3789-minimum-cost-to-acquire-required-items.py",
+          "path": "3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.py",
+          "sha": "7db333a18a677a547e78b939da01c14a32b46575",
+          "lastSyncedAt": "2026-11-11T15:02:26.586Z"
         }
       ]
     },
