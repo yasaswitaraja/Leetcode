@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T15:37:21.067Z",
+  "updatedAt": "2026-11-11T15:04:03.343Z",
   "problems": [
     {
       "frontendId": "5",
@@ -364,6 +364,26 @@
           "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.py",
           "sha": "2d0d614b274dc0e0f40e40c489c7b31e91de82aa",
           "lastSyncedAt": "2026-09-22T04:41:34.757Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3693",
+      "title": "Climbing Stairs II",
+      "slug": "climbing-stairs-ii",
+      "problemName": "3693-climbing-stairs-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs-ii/",
+      "folderPath": "3693-climbing-stairs-ii/",
+      "readmePath": "3693-climbing-stairs-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3693-climbing-stairs-ii.py",
+          "path": "3693-climbing-stairs-ii/3693-climbing-stairs-ii.py",
+          "sha": "fe9e200827ade0c66ed96c97bee2b433ae0ff8bf",
+          "lastSyncedAt": "2026-11-11T15:04:03.343Z"
         }
       ]
     },
