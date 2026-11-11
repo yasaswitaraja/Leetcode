@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T15:04:09.295Z",
+  "updatedAt": "2026-11-11T15:04:22.500Z",
   "problems": [
     {
       "frontendId": "1",
@@ -324,6 +324,26 @@
           "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.py",
           "sha": "24a05b096447bd364cc6a1da03a88ac033b4a2d5",
           "lastSyncedAt": "2026-10-25T15:27:57.328Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1267-count-servers-that-communicate.py",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "sha": "71d599675de26708ffc561968e5ad72a70961797",
+          "lastSyncedAt": "2026-11-11T15:04:22.500Z"
         }
       ]
     },
