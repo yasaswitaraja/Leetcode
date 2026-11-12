@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 85 | 20 | 40 | 25 |
+| 87 | 21 | 41 | 25 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 12 days | 39 |
+| 4 days | 12 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-18 | 3 |
-| 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
@@ -28,28 +26,30 @@ Contains topicwise list of solved problems.
 | 2026-11-06 | 2 |
 | 2026-11-07 | 1 |
 | 2026-11-09 | 1 |
+| 2026-11-10 | 1 |
 | 2026-11-11 | 1 |
+| 2026-11-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 44 | 52% |
-| String | 32 | 38% |
-| Hash Table | 20 | 24% |
-| Dynamic Programming | 18 | 21% |
+| Array | 46 | 53% |
+| String | 32 | 37% |
+| Hash Table | 20 | 23% |
+| Dynamic Programming | 19 | 22% |
 | Math | 13 | 15% |
 | Bracket Sequences | 11 | 13% |
 | Stack | 11 | 13% |
-| Binary Search | 10 | 12% |
-| Sliding Window | 10 | 12% |
-| Greedy | 9 | 11% |
+| Binary Search | 10 | 11% |
+| Sliding Window | 10 | 11% |
+| Greedy | 9 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 51 |
+| [Array](Topics/array/) | 54 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
