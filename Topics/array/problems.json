@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T15:04:22.500Z",
+  "updatedAt": "2026-11-12T18:12:59.848Z",
   "problems": [
     {
       "frontendId": "1",
@@ -744,6 +744,26 @@
           "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.py",
           "sha": "9279d5c328045a8293fe1ea1667a70fe85ce91ed",
           "lastSyncedAt": "2026-10-15T07:37:04.063Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3105",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "problemName": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+      "folderPath": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray/",
+      "readmePath": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py",
+          "path": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.py",
+          "sha": "2f4d8bea16b65196edaec389d76b32d7858084b4",
+          "lastSyncedAt": "2026-11-12T18:12:59.848Z"
         }
       ]
     },
