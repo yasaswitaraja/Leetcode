@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T18:12:59.848Z",
+  "updatedAt": "2026-11-13T14:06:59.866Z",
   "problems": [
     {
       "frontendId": "1",
@@ -824,6 +824,26 @@
           "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.py",
           "sha": "9541f8357862159844d75cc796f947be0946bd43",
           "lastSyncedAt": "2026-10-29T16:26:47.414Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3420",
+      "title": "Count Non-Decreasing Subarrays After K Operations",
+      "slug": "count-non-decreasing-subarrays-after-k-operations",
+      "problemName": "3420-count-non-decreasing-subarrays-after-k-operations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+      "folderPath": "3420-count-non-decreasing-subarrays-after-k-operations/",
+      "readmePath": "3420-count-non-decreasing-subarrays-after-k-operations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3420-count-non-decreasing-subarrays-after-k-operations.py",
+          "path": "3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.py",
+          "sha": "963e023467bdffd42484288600fa31bc17742f4c",
+          "lastSyncedAt": "2026-11-13T14:06:59.866Z"
         }
       ]
     },
