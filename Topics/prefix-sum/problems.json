@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-09-30T12:07:45.974Z",
+  "updatedAt": "2026-11-14T16:00:58.076Z",
   "problems": [
     {
       "frontendId": "209",
@@ -103,6 +104,26 @@
           "path": "2488-count-subarrays-with-median-k/2488-count-subarrays-with-median-k.py",
           "sha": "0c7a8a350baaeff66edebd39260671317182625b",
           "lastSyncedAt": "2026-09-30T12:07:25.688Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3364-minimum-positive-sum-subarray.py",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.py",
+          "sha": "dbe7e58b29f79713e3598a4538f5c2c3fd496987",
+          "lastSyncedAt": "2026-11-14T16:00:58.076Z"
         }
       ]
     },
