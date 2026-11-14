@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 87 | 21 | 41 | 25 |
+| 89 | 22 | 41 | 26 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 12 days | 41 |
+| 6 days | 12 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-23 | 1 |
-| 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
@@ -29,27 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 1 |
 | 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
+| 2026-11-13 | 1 |
+| 2026-11-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 46 | 53% |
-| String | 32 | 37% |
-| Hash Table | 20 | 23% |
-| Dynamic Programming | 19 | 22% |
+| Array | 48 | 54% |
+| String | 32 | 36% |
+| Hash Table | 20 | 22% |
+| Dynamic Programming | 19 | 21% |
 | Math | 13 | 15% |
-| Bracket Sequences | 11 | 13% |
-| Stack | 11 | 13% |
+| Sliding Window | 12 | 13% |
+| Stack | 12 | 13% |
+| Bracket Sequences | 11 | 12% |
 | Binary Search | 10 | 11% |
-| Sliding Window | 10 | 11% |
 | Greedy | 9 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 54 |
+| [Array](Topics/array/) | 56 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
@@ -74,19 +74,20 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 13 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Monotonic Queue](Topics/monotonic-queue/) | 1 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 7 |
-| [Queue](Topics/queue/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 8 |
+| [Queue](Topics/queue/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
-| [Segment Tree](Topics/segment-tree/) | 4 |
+| [Segment Tree](Topics/segment-tree/) | 5 |
 | [Shortest Path](Topics/shortest-path/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sliding Window](Topics/sliding-window/) | 10 |
+| [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 10 |
-| [Stack](Topics/stack/) | 11 |
+| [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 33 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
