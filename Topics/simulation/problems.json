@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T15:04:09.295Z",
+  "updatedAt": "2026-11-16T17:18:37.286Z",
   "problems": [
     {
       "frontendId": "1606",
@@ -24,6 +24,26 @@
           "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.py",
           "sha": "ffbe3036f2f2adc6f0c301c3332d6fd1cab4fa35",
           "lastSyncedAt": "2026-11-11T15:04:09.295Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2243-calculate-digit-sum-of-a-string.py",
+          "path": "2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.py",
+          "sha": "472e1638479deae928ec0650e83463ee48eef3fc",
+          "lastSyncedAt": "2026-11-16T17:18:37.286Z"
         }
       ]
     },
