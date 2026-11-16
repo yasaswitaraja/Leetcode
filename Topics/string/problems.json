@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-30T16:14:04.119Z",
+  "updatedAt": "2026-11-16T17:18:37.286Z",
   "problems": [
     {
       "frontendId": "3",
@@ -584,6 +584,26 @@
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
           "sha": "30af60f73e71d73ad092561068b5adc0bd0689b7",
           "lastSyncedAt": "2026-09-30T12:06:40.945Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2243-calculate-digit-sum-of-a-string.py",
+          "path": "2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.py",
+          "sha": "472e1638479deae928ec0650e83463ee48eef3fc",
+          "lastSyncedAt": "2026-11-16T17:18:37.286Z"
         }
       ]
     },
