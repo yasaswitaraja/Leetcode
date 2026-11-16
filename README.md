@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 89 | 22 | 41 | 26 |
+| 90 | 23 | 41 | 26 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 12 days | 43 |
+| 1 days | 12 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-29 | 2 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 1 |
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 54% |
-| String | 32 | 36% |
+| Array | 48 | 53% |
+| String | 33 | 37% |
 | Hash Table | 20 | 22% |
 | Dynamic Programming | 19 | 21% |
-| Math | 13 | 15% |
+| Math | 13 | 14% |
 | Sliding Window | 12 | 13% |
 | Stack | 12 | 13% |
 | Bracket Sequences | 11 | 12% |
@@ -84,11 +84,11 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 5 |
 | [Shortest Path](Topics/shortest-path/) | 2 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 33 |
+| [String](Topics/string/) | 34 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
 | [Union-Find](Topics/union-find/) | 3 |
