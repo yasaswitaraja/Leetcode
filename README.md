@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 90 | 23 | 41 | 26 |
+| 91 | 23 | 41 | 27 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 12 days | 44 |
+| 1 days | 12 days | 45 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-29 | 2 |
 | 2026-10-30 | 1 |
@@ -29,15 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
 | 2026-11-16 | 1 |
+| 2026-11-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 48 | 53% |
-| String | 33 | 37% |
+| String | 34 | 37% |
+| Dynamic Programming | 20 | 22% |
 | Hash Table | 20 | 22% |
-| Dynamic Programming | 19 | 21% |
 | Math | 13 | 14% |
 | Sliding Window | 12 | 13% |
 | Stack | 12 | 13% |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 21 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
@@ -88,8 +88,8 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 34 |
+| [String](Topics/string/) | 35 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 | [Union-Find](Topics/union-find/) | 3 |
 <!---LeetHub Summary End-->
