@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 91 | 23 | 41 | 27 |
+| 92 | 23 | 42 | 27 |
 
 ## Activity
 
@@ -28,14 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
 | 2026-11-16 | 1 |
-| 2026-11-19 | 1 |
+| 2026-11-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 53% |
-| String | 34 | 37% |
+| Array | 48 | 52% |
+| String | 35 | 38% |
 | Dynamic Programming | 20 | 22% |
 | Hash Table | 20 | 22% |
 | Math | 13 | 14% |
@@ -88,7 +88,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 12 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 35 |
+| [String](Topics/string/) | 36 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 | [Union-Find](Topics/union-find/) | 3 |
