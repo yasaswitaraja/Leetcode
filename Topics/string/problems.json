@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-19T01:56:05.869Z",
+  "updatedAt": "2026-11-19T02:00:25.765Z",
   "problems": [
     {
       "frontendId": "3",
@@ -664,6 +664,26 @@
           "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.py",
           "sha": "12cb2a59480537d3b2f37212c358c11ce676628f",
           "lastSyncedAt": "2026-11-19T01:56:05.869Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2914",
+      "title": "Minimum Number of Changes to Make Binary String Beautiful",
+      "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+      "problemName": "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+      "folderPath": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/",
+      "readmePath": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2914-minimum-number-of-changes-to-make-binary-string-beautiful.py",
+          "path": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/2914-minimum-number-of-changes-to-make-binary-string-beautiful.py",
+          "sha": "5ce41709367a944023eeaae9ca4d9e8fa10c231b",
+          "lastSyncedAt": "2026-11-19T02:00:25.765Z"
         }
       ]
     },
