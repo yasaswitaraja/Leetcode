@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-14T16:00:58.076Z",
+  "updatedAt": "2026-11-23T15:01:40.811Z",
   "problems": [
     {
       "frontendId": "209",
@@ -24,6 +24,26 @@
           "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
           "sha": "9845422926c002a724b203ddfde49b7474abe6ee",
           "lastSyncedAt": "2026-09-30T12:07:39.193Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1352-product-of-the-last-k-numbers.py",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.py",
+          "sha": "ee3cc715cfb9ec902e36d803d967b64ad08ee12b",
+          "lastSyncedAt": "2026-11-23T15:01:40.811Z"
         }
       ]
     },
