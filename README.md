@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 92 | 23 | 42 | 27 |
+| 93 | 23 | 43 | 27 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 12 days | 45 |
+| 1 days | 12 days | 46 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-27 | 1 |
 | 2026-10-29 | 2 |
 | 2026-10-30 | 1 |
 | 2026-11-05 | 5 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-14 | 1 |
 | 2026-11-16 | 1 |
 | 2026-11-19 | 2 |
+| 2026-11-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 52% |
+| Array | 49 | 53% |
 | String | 35 | 38% |
 | Dynamic Programming | 20 | 22% |
 | Hash Table | 20 | 22% |
-| Math | 13 | 14% |
+| Math | 14 | 15% |
 | Sliding Window | 12 | 13% |
 | Stack | 12 | 13% |
 | Bracket Sequences | 11 | 12% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 56 |
+| [Array](Topics/array/) | 57 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 11 |
@@ -60,7 +60,9 @@ Contains topicwise list of solved problems.
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [bubble-sort](Topics/bubble-sort/) | 0 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
+| [Data Stream](Topics/data-stream/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 4 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 21 |
 | [Enumeration](Topics/enumeration/) | 4 |
@@ -71,13 +73,13 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 21 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 13 |
+| [Math](Topics/math/) | 14 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 8 |
+| [Prefix Sum](Topics/prefix-sum/) | 9 |
 | [Queue](Topics/queue/) | 2 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
