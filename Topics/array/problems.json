@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T15:01:40.811Z",
+  "updatedAt": "2026-11-27T16:15:22.826Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1124,6 +1124,26 @@
           "path": "3942-minimum-operations-to-sort-a-permutation/3942-minimum-operations-to-sort-a-permutation.py",
           "sha": "b434c234a4b8da0defb72f6549d525f40b21c6b0",
           "lastSyncedAt": "2026-10-22T05:05:17.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3946-maximum-number-of-items-from-sale-i.py",
+          "path": "3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.py",
+          "sha": "1c6334f73f9ef99d19d5908735b87026107888d1",
+          "lastSyncedAt": "2026-11-27T16:15:22.826Z"
         }
       ]
     },
