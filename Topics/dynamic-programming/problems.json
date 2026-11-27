@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T01:56:05.869Z",
+  "updatedAt": "2026-11-27T16:15:22.826Z",
   "problems": [
     {
       "frontendId": "5",
@@ -424,6 +424,26 @@
           "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.py",
           "sha": "d41aad0d4a59955c34e09a412b8da57fe74b5e3e",
           "lastSyncedAt": "2026-10-28T11:40:41.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3946-maximum-number-of-items-from-sale-i.py",
+          "path": "3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.py",
+          "sha": "1c6334f73f9ef99d19d5908735b87026107888d1",
+          "lastSyncedAt": "2026-11-27T16:15:22.826Z"
         }
       ]
     }
